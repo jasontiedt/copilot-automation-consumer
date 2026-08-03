@@ -1,4 +1,4 @@
-# Key Vault Consumer (Example)
+# Key Vault Consumer (Example).
 
 Reference downstream repository that **consumes** the org-standard
 `keyvault-shared` Bicep module published by
